@@ -179,6 +179,206 @@ const catalogs = [
         url: "https://vipocatalog.github.io/18/",
         thumbnail: "page_18.webp",
         tags: ["פילטר", "סינון מים", "איכות מים", "בריאות", "מערכות סינון"]
+    },
+    {
+        title: "כסאות בר",
+        description: "מגוון כסאות בר איכותיים לבית ולעסק",
+        category: "furniture",
+        url: "https://lp6.me/MZKP3",
+        thumbnail: "furniture.webp",
+        tags: ["כסאות בר", "ריהוט", "מטבח", "פינת אוכל", "עיצוב הבית"]
+    },
+    {
+        title: "ספות מעוצבות",
+        description: "ספות איכותיות במחירי מפעל",
+        category: "furniture",
+        url: "https://lp6.me/8Qyup",
+        thumbnail: "luxury-sofas-1.webp",
+        tags: ["ספות", "ריהוט", "סלון", "עיצוב הבית", "נוחות"]
+    },
+    {
+        title: "כורסאות עיסוי",
+        description: "כורסאות עיסוי מתקדמות לבית",
+        category: "wellness",
+        url: "https://lp6.me/Af7eO",
+        thumbnail: "massage-chairs.webp",
+        tags: ["כורסאות עיסוי", "עיסוי", "בריאות", "רווחה", "טיפוח", "פינוק"]
+    },
+    {
+        title: "ג'קוזי ביתי",
+        description: "ג'קוזי איכותי לבית ולחצר",
+        category: "wellness",
+        url: "https://lp6.me/sG6yQ",
+        thumbnail: "inflatable-factory.webp",
+        tags: ["ג'קוזי", "ספא", "פינוק", "בריאות", "רווחה", "אמבטיה"]
+    },
+    {
+        title: "דשא סינטטי",
+        description: "דשא סינטטי איכותי לחצר ולגינה",
+        category: "outdoor",
+        url: "https://lp6.me/Icq4b",
+        thumbnail: "furniture.webp",
+        tags: ["דשא סינטטי", "גינה", "עיצוב חוץ", "חצר", "נוי"]
+    },
+    {
+        title: "ספות סלון 2",
+        description: "קולקציית ספות מעוצבות לסלון",
+        category: "furniture",
+        url: "https://lp6.me/snhha",
+        thumbnail: "luxury-sofas-2.webp",
+        tags: ["ספות", "סלון", "ריהוט", "עיצוב הבית", "נוחות"]
+    },
+    {
+        title: "ספות סלון 3",
+        description: "קולקציית ספות יוקרתיות",
+        category: "furniture",
+        url: "https://lp6.me/y0Xcx",
+        thumbnail: "luxury-sofas-3.webp",
+        tags: ["ספות", "סלון", "ריהוט", "עיצוב הבית", "נוחות", "יוקרה"]
+    },
+    {
+        title: "ספות דגם 3 א'",
+        description: "קולקציית ספות מודולריות לבית",
+        category: "furniture",
+        url: "https://lp6.me/qqZH7",
+        thumbnail: "luxury-sofas-2.webp",
+        tags: ["ספות", "סלון", "ריהוט", "עיצוב הבית", "מודולרי"]
+    },
+    {
+        title: "מסכי חוץ",
+        description: "מסכי תצוגה לשימוש חיצוני",
+        category: "electronics",
+        url: "https://lp6.me/uLv04",
+        thumbnail: "page_18.webp",
+        tags: ["מסכים", "חוץ", "טכנולוגיה", "פרסום", "עסקים"]
+    },
+    {
+        title: "מסכי לד",
+        description: "מסכי לד איכותיים למגוון שימושים",
+        category: "electronics",
+        url: "https://lp6.me/sM8V1",
+        thumbnail: "page_16.webp",
+        tags: ["מסכי לד", "אלקטרוניקה", "טכנולוגיה", "תצוגה", "חיסכון באנרגיה"]
+    },
+    {
+        title: "דף A4",
+        description: "תדפיסים ומוצרי נייר A4",
+        category: "other",
+        url: "https://lp6.me/aIcAa",
+        thumbnail: "page_14.webp",
+        tags: ["נייר", "הדפסה", "משרד", "ציוד משרדי"]
+    },
+    {
+        title: "וילות יוקרה",
+        description: "וילות יוקרה למכירה",
+        category: "realestate",
+        url: "https://lp6.me/Nl1ey",
+        thumbnail: "page_15.webp",
+        tags: ["וילות", "נדלן", "יוקרה", "בתים", "נכסים"]
+    },
+    {
+        title: "סירות ספורט",
+        description: "סירות ספורט ונופש",
+        category: "sports",
+        url: "https://lp6.me/kd2BP",
+        thumbnail: "page_10.webp",
+        tags: ["סירות", "ספורט ימי", "ים", "שייט", "נופש"]
+    },
+    {
+        title: "סככות וסכך",
+        description: "פתרונות הצללה למרפסת ולחצר",
+        category: "outdoor",
+        url: "https://lp6.me/6Fmy1",
+        thumbnail: "page_11.webp",
+        tags: ["סכך", "הצללה", "חצר", "מרפסת", "גינה", "קיץ"]
+    },
+    {
+        title: "כורסאות וספות",
+        description: "מגוון כורסאות וספות לסלון",
+        category: "furniture",
+        url: "https://lp6.me/hUYAQ",
+        thumbnail: "luxury-sofas-1.webp",
+        tags: ["כורסאות", "ספות", "סלון", "ריהוט", "נוחות"]
+    },
+    {
+        title: "חלונות לבית",
+        description: "חלונות איכותיים במחירי מפעל",
+        category: "home",
+        url: "https://lp6.me/oUghk",
+        thumbnail: "page_17.webp",
+        tags: ["חלונות", "בית", "בנייה", "שיפוץ", "בידוד"]
+    },
+    {
+        title: "פרגולות מעוצבות",
+        description: "פרגולות איכותיות לחצר ולגינה",
+        category: "outdoor",
+        url: "https://lp6.me/4Xrbg",
+        thumbnail: "page_12.webp",
+        tags: ["פרגולות", "גינה", "חצר", "הצללה", "עיצוב חוץ"]
+    },
+    {
+        title: "מיטות מעוצבות",
+        description: "מיטות איכותיות לחדר השינה",
+        category: "furniture",
+        url: "https://lp6.me/XjGWY",
+        thumbnail: "furniture.webp",
+        tags: ["מיטות", "חדר שינה", "ריהוט", "נוחות", "עיצוב פנים"]
+    },
+    {
+        title: "משקפי עיסוי",
+        description: "משקפי עיסוי חדשניים",
+        category: "wellness",
+        url: "https://lp6.me/sACMN",
+        thumbnail: "massage-chairs-payment.webp",
+        tags: ["משקפי עיסוי", "עיסוי", "בריאות", "רווחה", "טיפוח"]
+    },
+    {
+        title: "סכך איכותי",
+        description: "סכך לסוכה ולמרפסת",
+        category: "outdoor",
+        url: "https://lp6.me/VaSf6",
+        thumbnail: "page_15.webp",
+        tags: ["סכך", "סוכות", "הצללה", "חצר", "מרפסת"]
+    },
+    {
+        title: "אוהל איגלו",
+        description: "אוהלי איגלו איכותיים לקמפינג",
+        category: "camping",
+        url: "https://lp6.me/iNCOx",
+        thumbnail: "inflatable-tent.webp",
+        tags: ["איגלו", "אוהלים", "קמפינג", "טיולים", "שטח"]
+    },
+    {
+        title: "יחידות נופש",
+        description: "יחידות נופש להשכרה ולמכירה",
+        category: "realestate",
+        url: "https://lp6.me/Tsysy",
+        thumbnail: "page_12.webp",
+        tags: ["יחידות נופש", "נדלן", "תיירות", "נופש", "צימרים"]
+    },
+    {
+        title: "דלתות מעוצבות",
+        description: "דלתות איכותיות לבית",
+        category: "home",
+        url: "https://lp6.me/KuSxh",
+        thumbnail: "page_17.webp",
+        tags: ["דלתות", "בית", "עיצוב פנים", "שיפוץ", "בנייה"]
+    },
+    {
+        title: "חיפוי עץ",
+        description: "חיפויי עץ איכותיים לבית",
+        category: "home",
+        url: "https://lp6.me/UTYvj",
+        thumbnail: "page_18.webp",
+        tags: ["חיפוי עץ", "עץ", "עיצוב פנים", "קירות", "רצפה"]
+    },
+    {
+        title: "חיפוי חוץ",
+        description: "חיפויים איכותיים לקירות חוץ",
+        category: "outdoor",
+        url: "https://lp6.me/kXZgV",
+        thumbnail: "page_14.webp",
+        tags: ["חיפוי חוץ", "בנייה", "עיצוב חוץ", "קירות", "איטום"]
     }
 ];
 
