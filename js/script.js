@@ -229,22 +229,6 @@ const catalogs = [
         tags: ["ספות", "סלון", "ריהוט", "עיצוב הבית", "נוחות"]
     },
     {
-        title: "ספות סלון 3",
-        description: "קולקציית ספות יוקרתיות",
-        category: "furniture",
-        url: "https://lp6.me/y0Xcx",
-        thumbnail: "default.webp",
-        tags: ["ספות", "סלון", "ריהוט", "עיצוב הבית", "נוחות", "יוקרה"]
-    },
-    {
-        title: "ספות דגם 3 א'",
-        description: "קולקציית ספות מודולריות לבית",
-        category: "furniture",
-        url: "https://lp6.me/qqZH7",
-        thumbnail: "default.webp",
-        tags: ["ספות", "סלון", "ריהוט", "עיצוב הבית", "מודולרי"]
-    },
-    {
         title: "מסכי חוץ",
         description: "מסכי תצוגה לשימוש חיצוני",
         category: "electronics",
