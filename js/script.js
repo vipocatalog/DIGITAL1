@@ -217,7 +217,7 @@ const catalogs = [
         description: "דשא סינטטי איכותי לחצר ולגינה",
         category: "outdoor",
         url: "https://lp6.me/Icq4b",
-        thumbnail: "default.webp",
+        thumbnail: "synthetic_grass.webp",
         tags: ["דשא סינטטי", "גינה", "עיצוב חוץ", "חצר", "נוי"]
     },
     {
@@ -233,7 +233,7 @@ const catalogs = [
         description: "מסכי תצוגה לשימוש חיצוני",
         category: "electronics",
         url: "https://lp6.me/uLv04",
-        thumbnail: "default.webp",
+        thumbnail: "outdoor_screens.webp",
         tags: ["מסכים", "חוץ", "טכנולוגיה", "פרסום", "עסקים"]
     },
     {
@@ -241,7 +241,7 @@ const catalogs = [
         description: "מסכי לד איכותיים למגוון שימושים",
         category: "electronics",
         url: "https://lp6.me/sM8V1",
-        thumbnail: "default.webp",
+        thumbnail: "led_screens.webp",
         tags: ["מסכי לד", "אלקטרוניקה", "טכנולוגיה", "תצוגה", "חיסכון באנרגיה"]
     },
     {
@@ -257,7 +257,7 @@ const catalogs = [
         description: "וילות יוקרה למכירה",
         category: "realestate",
         url: "https://lp6.me/Nl1ey",
-        thumbnail: "default.webp",
+        thumbnail: "luxury_villas.webp",
         tags: ["וילות", "נדלן", "יוקרה", "בתים", "נכסים"]
     },
     {
@@ -281,7 +281,7 @@ const catalogs = [
         description: "מגוון כורסאות וספות לסלון",
         category: "furniture",
         url: "https://lp6.me/hUYAQ",
-        thumbnail: "default.webp",
+        thumbnail: "armchairs_sofas.webp",
         tags: ["כורסאות", "ספות", "סלון", "ריהוט", "נוחות"]
     },
     {
@@ -289,7 +289,7 @@ const catalogs = [
         description: "חלונות איכותיים במחירי מפעל",
         category: "home",
         url: "https://lp6.me/oUghk",
-        thumbnail: "default.webp",
+        thumbnail: "home_windows.webp",
         tags: ["חלונות", "בית", "בנייה", "שיפוץ", "בידוד"]
     },
     {
@@ -297,7 +297,7 @@ const catalogs = [
         description: "פרגולות איכותיות לחצר ולגינה",
         category: "outdoor",
         url: "https://lp6.me/4Xrbg",
-        thumbnail: "default.webp",
+        thumbnail: "designer_pergolas.webp",
         tags: ["פרגולות", "גינה", "חצר", "הצללה", "עיצוב חוץ"]
     },
     {
@@ -313,7 +313,7 @@ const catalogs = [
         description: "משקפי עיסוי חדשניים",
         category: "wellness",
         url: "https://lp6.me/sACMN",
-        thumbnail: "default.webp",
+        thumbnail: "massage_glasses.webp",
         tags: ["משקפי עיסוי", "עיסוי", "בריאות", "רווחה", "טיפוח"]
     },
     {
@@ -321,7 +321,7 @@ const catalogs = [
         description: "סכך לסוכה ולמרפסת",
         category: "outdoor",
         url: "https://lp6.me/VaSf6",
-        thumbnail: "default.webp",
+        thumbnail: "quality_shade.webp",
         tags: ["סכך", "סוכות", "הצללה", "חצר", "מרפסת"]
     },
     {
@@ -337,7 +337,7 @@ const catalogs = [
         description: "יחידות נופש להשכרה ולמכירה",
         category: "realestate",
         url: "https://lp6.me/Tsysy",
-        thumbnail: "default.webp",
+        thumbnail: "vacation_units.webp",
         tags: ["יחידות נופש", "נדלן", "תיירות", "נופש", "צימרים"]
     },
     {
@@ -345,7 +345,7 @@ const catalogs = [
         description: "דלתות איכותיות לבית",
         category: "home",
         url: "https://lp6.me/KuSxh",
-        thumbnail: "default.webp",
+        thumbnail: "designer_doors.webp",
         tags: ["דלתות", "בית", "עיצוב פנים", "שיפוץ", "בנייה"]
     },
     {
@@ -353,7 +353,7 @@ const catalogs = [
         description: "חיפויי עץ איכותיים לבית",
         category: "home",
         url: "https://lp6.me/UTYvj",
-        thumbnail: "default.webp",
+        thumbnail: "wood_paneling.webp",
         tags: ["חיפוי עץ", "עץ", "עיצוב פנים", "קירות", "רצפה"]
     },
     {
@@ -361,7 +361,7 @@ const catalogs = [
         description: "חיפויים איכותיים לקירות חוץ",
         category: "outdoor",
         url: "https://lp6.me/kXZgV",
-        thumbnail: "default.webp",
+        thumbnail: "exterior_cladding.webp",
         tags: ["חיפוי חוץ", "בנייה", "עיצוב חוץ", "קירות", "איטום"]
     }
 ];
