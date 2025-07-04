@@ -159,7 +159,7 @@ const catalogs = [
     {
         title: "מפעל ייצור רמקולים 1",
         description: "רמקולים ומערכות שמע איכותיות",
-        category: "other",
+        category: "electronics",
         url: "https://vipocatalog.github.io/16/",
         thumbnail: "page_16.webp",
         tags: ["רמקולים", "אודיו", "מוזיקה", "שמע", "אלקטרוניקה"]
@@ -175,7 +175,7 @@ const catalogs = [
     {
         title: "מפעל ייצור פילטר 1",
         description: "פילטרים ומערכות סינון מים",
-        category: "other",
+        category: "home",
         url: "https://vipocatalog.github.io/18/",
         thumbnail: "page_18.webp",
         tags: ["פילטר", "סינון מים", "איכות מים", "בריאות", "מערכות סינון"]
@@ -247,7 +247,7 @@ const catalogs = [
     {
         title: "דף A4",
         description: "תדפיסים ומוצרי נייר A4",
-        category: "other",
+        category: "business",
         url: "https://lp6.me/aIcAa",
         thumbnail: "thumbnails/printer_paper.webp",
         tags: ["נייר", "הדפסה", "משרד", "ציוד משרדי"]
@@ -463,6 +463,10 @@ function renderCategoriesPage() {
         'inflatables': { name: 'מוצרים מתנפחים', icon: 'fa-wind' },
         'camping': { name: 'קמפינג וטיולים', icon: 'fa-campground' },
         'sports': { name: 'ספורט ופנאי', icon: 'fa-swimmer' },
+        'outdoor': { name: 'מוצרי חוץ', icon: 'fa-tree' },
+        'electronics': { name: 'מוצרי אלקטרוניקה', icon: 'fa-tv' },
+        'realestate': { name: 'נדל"ן', icon: 'fa-home' },
+        'home': { name: 'מוצרי בית', icon: 'fa-door-open' },
         'business': { name: 'מוצרים לעסקים', icon: 'fa-store' },
         'other': { name: 'שונות', icon: 'fa-box' }
     };
