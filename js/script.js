@@ -252,14 +252,7 @@ const catalogs = [
         thumbnail: "new/23.webp",
         tags: ["נייר", "הדפסה", "משרד", "ציוד משרדי"]
     },
-    {
-        title: "איגלו",
-        description: "איגלו מתנפח לאירועים",
-        category: "inflatables",
-        url: "https://lp6.me/QHdyV",
-        thumbnail: "new/20.webp",
-        tags: ["איגלו", "מתנפח", "אירועים", "גן", "חגיגה"]
-    },
+
     {
         title: "סירות ספורט",
         description: "סירות ספורט מתקדמות",
@@ -329,7 +322,7 @@ const catalogs = [
         description: "אוהלי איגלו איכותיים לקמפינג",
         category: "camping",
         url: "https://lp6.me/iNCOx",
-        thumbnail: "thumbnails/igloo.webp",
+        thumbnail: "new/20.webp",
         tags: ["איגלו", "אוהלים", "קמפינג", "טיולים", "שטח"]
     },
     {
