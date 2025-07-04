@@ -99,14 +99,7 @@ const catalogs = [
         thumbnail: "inflatable-factory.webp",
         tags: ["מתנפחים", "מזרונים", "אוהלים", "מוצרים מתנפחים"]
     },
-    {
-        title: "מזרונים מתנפחים",
-        description: "מזרונים מתנפחים איכותיים",
-        category: "inflatables",
-        url: "https://vipocatalog.github.io/03/",
-        thumbnail: "inflatable-mattress.webp",
-        tags: ["מזרונים", "מתנפחים", "שינה", "קמפינג"]
-    },
+
     {
         title: "קטלוג אוהל מתנפח 1",
         description: "אוהלים מתנפחים מגוונים",
