@@ -217,7 +217,7 @@ const catalogs = [
         description: "דשא סינטטי איכותי לחצר ולגינה",
         category: "outdoor",
         url: "https://lp6.me/Icq4b",
-        thumbnail: "synthetic_grass.webp",
+        thumbnail: "new/34.webp",
         tags: ["דשא סינטטי", "גינה", "עיצוב חוץ", "חצר", "נוי"]
     },
     {
@@ -233,7 +233,7 @@ const catalogs = [
         description: "מסכי תצוגה לשימוש חיצוני",
         category: "electronics",
         url: "https://lp6.me/uLv04",
-        thumbnail: "outdoor_screens.webp",
+        thumbnail: "new/36.webp",
         tags: ["מסכים", "חוץ", "טכנולוגיה", "פרסום", "עסקים"]
     },
     {
@@ -241,7 +241,7 @@ const catalogs = [
         description: "מסכי לד איכותיים למגוון שימושים",
         category: "electronics",
         url: "https://lp6.me/sM8V1",
-        thumbnail: "outdoor_screens.webp",
+        thumbnail: "new/41.webp",
         tags: ["מסכי לד", "אלקטרוניקה", "טכנולוגיה", "תצוגה", "חיסכון באנרגיה"]
     },
     {
@@ -266,7 +266,7 @@ const catalogs = [
         description: "פתרונות הצללה למרפסת ולחצר",
         category: "outdoor",
         url: "https://lp6.me/6Fmy1",
-        thumbnail: "thumbnails/shade_solutions.webp",
+        thumbnail: "new/31.webp",
         tags: ["סכך", "הצללה", "חצר", "מרפסת", "גינה", "קיץ"]
     },
     {
@@ -282,7 +282,7 @@ const catalogs = [
         description: "חלונות איכותיים במחירי מפעל",
         category: "home",
         url: "https://lp6.me/oUghk",
-        thumbnail: "new/19.webp",
+        thumbnail: "new/38.webp",
         tags: ["חלונות", "בית", "בנייה", "שיפוץ", "בידוד"]
     },
     {
@@ -290,7 +290,7 @@ const catalogs = [
         description: "פרגולות איכותיות לחצר ולגינה",
         category: "outdoor",
         url: "https://lp6.me/4Xrbg",
-        thumbnail: "designer_pergolas.webp",
+        thumbnail: "new/32.webp",
         tags: ["פרגולות", "גינה", "חצר", "הצללה", "עיצוב חוץ"]
     },
     {
@@ -314,7 +314,7 @@ const catalogs = [
         description: "סכך לסוכה ולמרפסת",
         category: "outdoor",
         url: "https://lp6.me/VaSf6",
-        thumbnail: "quality_shade.webp",
+        thumbnail: "new/33.webp",
         tags: ["סכך", "סוכות", "הצללה", "חצר", "מרפסת"]
     },
     {
@@ -330,7 +330,7 @@ const catalogs = [
         description: "יחידות נופש להשכרה ולמכירה",
         category: "realestate",
         url: "https://lp6.me/Tsysy",
-        thumbnail: "vacation_units.webp",
+        thumbnail: "new/37.webp",
         tags: ["יחידות נופש", "נדלן", "תיירות", "נופש", "צימרים"]
     },
     {
@@ -338,7 +338,7 @@ const catalogs = [
         description: "דלתות איכותיות לבית",
         category: "home",
         url: "https://lp6.me/KuSxh",
-        thumbnail: "designer_doors.webp",
+        thumbnail: "new/39.webp",
         tags: ["דלתות", "בית", "עיצוב פנים", "שיפוץ", "בנייה"]
     },
     {
@@ -346,7 +346,7 @@ const catalogs = [
         description: "חיפויי עץ איכותיים לבית",
         category: "home",
         url: "https://lp6.me/UTYvj",
-        thumbnail: "wood_paneling.webp",
+        thumbnail: "new/40.webp",
         tags: ["חיפוי עץ", "עץ", "עיצוב פנים", "קירות", "רצפה"]
     },
     {
@@ -354,7 +354,7 @@ const catalogs = [
         description: "חיפויים איכותיים לקירות חוץ",
         category: "outdoor",
         url: "https://lp6.me/kXZgV",
-        thumbnail: "exterior_cladding.webp",
+        thumbnail: "new/35.webp",
         tags: ["חיפוי חוץ", "בנייה", "עיצוב חוץ", "קירות", "איטום"]
     }
 ];
