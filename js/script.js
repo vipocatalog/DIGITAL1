@@ -356,6 +356,14 @@ const catalogs = [
         url: "https://lp6.me/kXZgV",
         thumbnail: "new/35.webp",
         tags: ["חיפוי חוץ", "בנייה", "עיצוב חוץ", "קירות", "איטום"]
+    },
+    {
+        title: "מזרונים מתנפחים",
+        description: "מזרונים מתנפחים איכותיים לשינה נוחה",
+        category: "inflatables",
+        url: "https://vipocatalog.github.io/03/",
+        thumbnail: "new/42.webp",
+        tags: ["מזרונים", "מתנפחים", "שינה", "נוחות", "אירוח"]
     }
 ];
 
