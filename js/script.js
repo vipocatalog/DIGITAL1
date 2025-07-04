@@ -15,7 +15,7 @@ const catalogs = [
         title: "ספות יוקרה א",
         description: "ספות יוקרה במחירים משתלמים",
         category: "furniture",
-        url: "https://vipoconnect.github.io/18/",
+        url: "https://lp6.me/qqZH7",
         thumbnail: "luxury-sofas-1.webp",
         tags: ["ספות", "ריהוט", "יוקרה", "סלון", "בית"]
     },
@@ -31,7 +31,7 @@ const catalogs = [
         title: "ספות יוקרה ג",
         description: "ספות יוקרה במחירים משתלמים",
         category: "furniture",
-        url: "https://vipoconnect.github.io/20/",
+        url: "https://lp6.me/y0Xcx",
         thumbnail: "luxury-sofas-3.webp",
         tags: ["ספות", "ריהוט", "יוקרה", "סלון", "בית"]
     },
@@ -185,7 +185,7 @@ const catalogs = [
         title: "ספות מעוצבות",
         description: "ספות יוקרה מעוצבות",
         category: "furniture",
-        url: "https://lp6.me/5MvCs",
+        url: "https://lp6.me/8Qyup",
         thumbnail: "new/19.webp",
         tags: ["ספות", "ריהוט", "סלון", "עיצוב הבית", "נוחות"]
     },
@@ -193,7 +193,7 @@ const catalogs = [
         title: "כורסאות עיסוי",
         description: "כורסאות עיסוי חדשניות",
         category: "wellness",
-        url: "https://lp6.me/J9kQH",
+        url: "https://lp6.me/Af7eO",
         thumbnail: "new/30.webp",
         tags: ["כורסאות עיסוי", "עיסוי", "בריאות", "רווחה", "טיפוח", "פינוק"]
     },
@@ -201,7 +201,7 @@ const catalogs = [
         title: "ג'קוזי",
         description: "ג'קוזי מפנק במחיר אטרקטיבי",
         category: "wellness",
-        url: "https://lp6.me/OAM4v",
+        url: "https://lp6.me/sG6yQ",
         thumbnail: "new/26.webp",
         tags: ["ג'קוזי", "ספא", "פינוק", "בריאות", "רווחה", "אמבטיה"]
     },
@@ -217,7 +217,7 @@ const catalogs = [
         title: "ספות סלון 2",
         description: "ספות מעוצבות לסלון",
         category: "furniture",
-        url: "https://lp6.me/iTmZh",
+        url: "https://lp6.me/snhha",
         thumbnail: "new/28.webp",
         tags: ["ספות", "סלון", "ריהוט", "עיצוב הבית", "נוחות"]
     },
@@ -241,7 +241,7 @@ const catalogs = [
         title: "דף A4",
         description: "נייר משרדי איכותי",
         category: "business",
-        url: "https://lp6.me/bVgTf",
+        url: "https://lp6.me/aIcAa",
         thumbnail: "new/23.webp",
         tags: ["נייר", "הדפסה", "משרד", "ציוד משרדי"]
     },
@@ -250,7 +250,7 @@ const catalogs = [
         title: "סירות ספורט",
         description: "סירות ספורט מתקדמות",
         category: "water",
-        url: "https://lp6.me/ThwIy",
+        url: "https://lp6.me/kd2BP",
         thumbnail: "new/29.webp",
         tags: ["סירות", "ספורט ימי", "ים", "שייט", "נופש"]
     },
@@ -290,7 +290,7 @@ const catalogs = [
         title: "מיטות",
         description: "מיטות איכותיות בעיצוב חדשני",
         category: "furniture",
-        url: "https://lp6.me/r1iMp",
+        url: "https://lp6.me/XjGWY",
         thumbnail: "new/24.webp",
         tags: ["מיטות", "חדר שינה", "ריהוט", "נוחות", "עיצוב פנים"]
     },
