@@ -177,7 +177,7 @@ const catalogs = [
         title: "כסאות בר",
         description: "כסאות בר מעוצבים",
         category: "furniture",
-        url: "https://lp6.me/HQkuP",
+        url: "https://lp6.me/MZKP3",
         thumbnail: "new/25.webp",
         tags: ["כסאות בר", "ריהוט", "מטבח", "פינת אוכל", "עיצוב הבית"]
     },
